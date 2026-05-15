@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*.db-journal
+~$*.docx
+dashboard.local.env.bat
